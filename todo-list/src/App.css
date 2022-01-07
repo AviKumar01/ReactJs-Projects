@@ -1,0 +1,17 @@
+body {
+  background-color: #30475e;
+  text-align: center;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.App {
+  width: 60%;
+  padding: 10px;
+  margin: 100px auto;
+  height: auto;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  box-shadow: 5px 10px black;
+}
+
