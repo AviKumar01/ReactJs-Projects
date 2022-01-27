@@ -1,0 +1,24 @@
+body{
+  background-color: #F5F5F5;
+  color: white;
+}
+h1{
+  text-align: center;
+}
+.center_div{
+  background-color: #121212;
+  margin: auto;
+  width: 40%;
+}
+
+.btn_div{
+  text-align: center;
+  padding: 5px;
+}
+
+button{
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  margin: 5px;
+}
